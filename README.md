@@ -195,3 +195,7 @@ Build-A-Thon Project Submission
 
 📜 License
 This project is developed for educational, research, and hackathon purposes.
+
+
+PDF Link:
+https://canva.link/2bcel09rhi50ezr
