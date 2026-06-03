@@ -199,3 +199,6 @@ This project is developed for educational, research, and hackathon purposes.
 
 PDF Link:
 https://canva.link/2bcel09rhi50ezr
+
+Demo Video:
+https://drive.google.com/file/d/1Bx3nVGth8_M1kW1IJrydkBJzSZbkjDAj/view?usp=sharing
